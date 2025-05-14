@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/instructa-mcp-youtube-music-badge.png)](https://mseep.ai/app/instructa-mcp-youtube-music)
+
 # YouTube Music MCP 🎵
 
 This is a simple MCP server that allows you to search for and play tracks on YouTube Music directly from your AI assistant like Cursor or Claude Desktop.
